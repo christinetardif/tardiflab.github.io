@@ -1,13 +1,14 @@
-title:             Paul Le
-email:             l.nguyen.paul@gmail.com
-description:
+title:             Tardif Lab
+email:             christine.tardif@mcgill.ca
+tagline: "a view of brain microstructure in vivo using MRI"
+description:  "Magnetic resonance imaging lab of brain tissue microstructure, Montreal Neurological Institute, McGill University."
+
 baseurl:           /labwebsite
 url:               https://tardiflab.github.io
-twitter:           "paululele"
-github:            "lenpaul"
-codepen:           "lenpaul"
-linkedin:          "lenpaul"
-instagram:         "paululele"
+
+twitter:           "tardiftweets"
+github:            "tardiflab"
+#linkedin:          "lenpaul"
 
 # Build settings
 markdown: kramdown
