@@ -402,3 +402,29 @@
 .code-pen {
   margin-bottom: $spacing-unit;
 }
+
+.ai-researchgate {
+  padding: 5px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.ai-researchgate:hover {
+	color: black;
+}
+
+.ai-google-scholar {
+  padding: 5px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.ai-google-scholar:hover {
+	color: black;
+}
