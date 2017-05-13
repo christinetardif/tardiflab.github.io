@@ -399,6 +399,19 @@
 	color: black;
 }
 
+.fa-map-maker {
+  padding: 5px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-map-maker:hover {
+	color: black;
+}
+
 .code-pen {
   margin-bottom: $spacing-unit;
 }
