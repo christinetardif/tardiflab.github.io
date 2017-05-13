@@ -13,7 +13,7 @@ google-scholar:     "citations?user=6EoHjugAAAAJ&hl=en&oi=ao"
 
 pages:
 - {title: 'About', url: 'pages/about.html'}
-- {title: 'Contact', url: 'pages/contact.html'}
+- {title: 'Join', url: 'pages/join.html'}
 
 # Build settings
 markdown: kramdown
