@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+<a href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank"><i class="ai ai-researchgate" aria-hidden="true"></i></a>
+<a href="https://schoolar.google.ca/{{ site.google-scholar }}" target="_blank"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Tardif%20CL%5BAuthor%5D&cauthor=true&cauthor_uid=28462512" target="_blank"><i class="ai ai-pubmed" aria-hidden="true"></i></a>
+
 <p>Recent publications are listed below. For a complete list, please see google-scholar or research-gate.</p>
 
 <p>C. L. Tardif, C. J. Steele, L. Lampe, P. L. Bazin, P. Ragert, A. Villringer and C. J. Gauthier, 2017. Investigation of the confounding effects of vasculature and metabolism on computational anatomy studies. Neuroimage 149, 233-243.
