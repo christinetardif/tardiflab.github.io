@@ -12,6 +12,11 @@
 
 .site-header a {
 	text-decoration: none;
+	
+	&:hover {
+        color: white;//$text-color;
+        text-decoration: none;
+    }
 }
 
 .site-title {
