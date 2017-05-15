@@ -6,9 +6,9 @@ permalink: /publications/
 
 <p>Recent publications are listed below. For a complete list, please see google-scholar or research-gate.</p>
 
-<p>C. L. Tardif, C. J. Steele, L. Lampe, P. L. Bazin, P. Ragert, A. Villringer and C. J. Gauthier, 2017. Investigation of the confounding effects of vasculature and metabolism on computational anatomy studies. Neuroimage 149, 233-243, doi:10.1016/j.neuroimage.2017.01.025</p>
+<p>C. L. Tardif, C. J. Steele, L. Lampe, P. L. Bazin, P. Ragert, A. Villringer and C. J. Gauthier, 2017. Investigation of the confounding effects of vasculature and metabolism on computational anatomy studies. Neuroimage 149, 233-243. [doi:10.1016/j.neuroimage.2017.01.025](http://dx.doi.org/10.1016/j.neuroimage.2017.01.025)</p>
 
-<p>M. Boudreau, C. L. Tardif, N. Stikov, J. G. Sled, W. Lee and G. B. Pike, 2017. B1 mapping for bias-correction in quantitative T1 imaging of the brain at 3T using standard pulse sequences. J Magn Reson Imaging, doi:10.1002/jmri.25692</p>
+<p>M. Boudreau, C. L. Tardif, N. Stikov, J. G. Sled, W. Lee and G. B. Pike, 2017. B1 mapping for bias-correction in quantitative T1 imaging of the brain at 3T using standard pulse sequences. J Magn Reson Imaging. doi:10.1002/jmri.25692</p>
 
 <p>J. M. Huntenburg, P. L. Bazin, A. Goulas, C. L. Tardif, A. Villringer and D. S. Margulies, 2017. A Systematic Relationship Between Functional Connectivity and Intracortical Myelin in the Human Cerebral Cortex. Cereb Cortex 27, 981-997, doi:10.1093/cercor/bhx030</p>
 
