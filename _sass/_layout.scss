@@ -20,6 +20,7 @@
 }
 
 .site-title {
+    color: white;
     font-size: 48px;
     font-weight: 50;
     //line-height: 100px;
@@ -28,7 +29,7 @@
     margin-top: 30px;
     float: left;
     padding-left: 30px;
-    color: white;
+    
 
     //&,
     //&:visited {
@@ -47,16 +48,26 @@
 }
 
 .site-tagline {
+    color: white;
     font-size: 18px;
     font-weight: 400;
     line-height: 150px;
     //letter-spacing: -1px;
-    margin-top: 90;
+    margin-top: 0;
     margin-bottom: 0;
     float: left;
-    padding-left: 30;
-    color: white;
+    padding-left: 30px;
+   
+}
 
+.site-tagline a {
+	text-decoration: none;
+	color: white;
+	
+	&:hover {
+        	color: #d3d3d3;
+        	text-decoration: none;
+    	}
 }
 
 .site-nav {
