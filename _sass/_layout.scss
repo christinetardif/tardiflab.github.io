@@ -74,7 +74,7 @@
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-left: 20px;
-	    margin-right: 20px;
+	    //margin-right: 20px;
         }
     }
 
@@ -119,6 +119,7 @@
         .page-link {
             display: block;
             padding: 5px 10px;
+	   
 
             &:not(:last-child) {
                 margin-right: 0;
