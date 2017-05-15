@@ -6,11 +6,11 @@ permalink: /publications/
 
 <p>Recent publications are listed below. For a complete list, please see google-scholar or research-gate.</p>
 
-<p>C. L. Tardif, C. J. Steele, L. Lampe, P. L. Bazin, P. Ragert, A. Villringer and C. J. Gauthier, 2017. Investigation of the confounding effects of vasculature and metabolism on computational anatomy studies. Neuroimage 149, 233-243. <a href="http://dx.doi.org/10.1016/j.neuroimage.2017.01.025" target="_blank">doi:10.1016/j.neuroimage.2017.01.025</a></p>
+<p>C. L. Tardif, C. J. Steele, L. Lampe, P. L. Bazin, P. Ragert, A. Villringer and C. J. Gauthier, 2017. Investigation of the confounding effects of vasculature and metabolism on computational anatomy studies. Neuroimage 149, 233-243. <br><a href="http://dx.doi.org/10.1016/j.neuroimage.2017.01.025" target="_blank">doi:10.1016/j.neuroimage.2017.01.025</a></p>
 
-<p>M. Boudreau, C. L. Tardif, N. Stikov, J. G. Sled, W. Lee and G. B. Pike, 2017. B1 mapping for bias-correction in quantitative T1 imaging of the brain at 3T using standard pulse sequences. J Magn Reson Imaging. <a href="http://dx.doi.org/10.1002/jmri.25692" target="_blank">doi:10.1002/jmri.25692</a></p>
+<p>M. Boudreau, C. L. Tardif, N. Stikov, J. G. Sled, W. Lee and G. B. Pike, 2017. B1 mapping for bias-correction in quantitative T1 imaging of the brain at 3T using standard pulse sequences. J Magn Reson Imaging. <br><a href="http://dx.doi.org/10.1002/jmri.25692" target="_blank">doi:10.1002/jmri.25692</a></p>
 
-<p>J. M. Huntenburg, P. L. Bazin, A. Goulas, C. L. Tardif, A. Villringer and D. S. Margulies, 2017. A Systematic Relationship Between Functional Connectivity and Intracortical Myelin in the Human Cerebral Cortex. Cereb Cortex 27, 981-997. <a href="http://dx.doi.org/10.1093/cercor/bhx030" target="_blank">doi:10.1093/cercor/bhx030</a></p>
+<p>J. M. Huntenburg, P. L. Bazin, A. Goulas, C. L. Tardif, A. Villringer and D. S. Margulies, 2017. A Systematic Relationship Between Functional Connectivity and Intracortical Myelin in the Human Cerebral Cortex. Cereb Cortex 27, 981-997. <br><a href="http://dx.doi.org/10.1093/cercor/bhx030" target="_blank">doi:10.1093/cercor/bhx030</a></p>
 
 <p>C. D. Rowley, M. Sehmbi, P. L. Bazin, C. L. Tardif, L. Minuzzi, B. N. Frey and N. A. Bock, 2017. Age-related mapping of intracortical myelin from late adolescence to middle adulthood using T1 -weighted MRI. Hum Brain Mapp. <a href="http://dx.doi.org/10.1002/hbm.23624" target="_blank">doi:10.1002/hbm.23624</a></p>
 
