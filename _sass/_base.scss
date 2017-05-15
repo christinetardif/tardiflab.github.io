@@ -102,9 +102,9 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: black;//$brand-color;
-    text-decoration: underline;
-    font-weight: bold;
+    color: blue; //black;//$brand-color;
+    text-decoration: none;
+    //font-weight: bold;
         -o-transition:.5s;
         -ms-transition:.5s;
         -moz-transition:.5s;
@@ -117,7 +117,7 @@ a {
 
     &:hover {
         color: #333;//$text-color;
-        text-decoration: none;
+        text-decoration: underline;
     }
 }
 
