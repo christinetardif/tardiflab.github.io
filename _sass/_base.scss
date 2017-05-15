@@ -121,26 +121,6 @@ a {
     }
 }
 
-aa {
-    //color: black;//$brand-color;
-    text-decoration: none;
-    //font-weight: bold;
-        -o-transition:.5s;
-        -ms-transition:.5s;
-        -moz-transition:.5s;
-        -webkit-transition:.5s;
-        transition: .5s;
-    
-    /*&:visited {
-        color: darken($brand-color, 15%);
-    }*/
-
-    &:hover {
-        //color: blue;//$text-color;
-        text-decoration: none;
-    }
-}
-
 /**
  * Blockquotes
  */
