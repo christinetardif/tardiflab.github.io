@@ -3,7 +3,7 @@ email:             christine.tardif@mcgill.ca
 tagline:           "a view of brain microstructure in vivo using MRI"
 description:       "Magnetic resonance imaging lab of brain tissue microstructure, Montreal Neurological Institute, McGill University."
 
-baseurl:           /labtestwebsite
+baseurl:           /labtestwebsite2
 url:               https://tardiflab.github.io
 
 twitter:           "tardiftweets"
