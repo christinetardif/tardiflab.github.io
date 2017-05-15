@@ -47,33 +47,16 @@
     	}
 }
 
+.site-title h1 {
+    font-size: 48px;
+    font-weight: 100;
+}
+
 .site-title h2 {
     font-size: 18px;
     font-weight: 400;
 }
 
-.site-tagline {
-    color: white;
-    font-size: 18px;
-    font-weight: 400;
-    //line-height: 150px;
-    //letter-spacing: -1px;
-    margin-top: 100px;
-    margin-bottom: 0;
-    float: left;
-    padding-left: 30px;
-   
-}
-
-.site-tagline a {
-	text-decoration: none;
-	color: white;
-	
-	&:hover {
-        	color: #d3d3d3;
-        	text-decoration: none;
-    	}
-}
 
 .site-nav {
     float: right;
