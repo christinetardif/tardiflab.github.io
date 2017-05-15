@@ -203,6 +203,18 @@ h2 span {
    margin-top: 150px;
 }
 
+h3 span {
+   display: inline-block;
+   color: white;
+   font-weight: 400;
+   font: 28px;
+   //letter-spacing: -1px;
+   //background: rgb(0, 0, 0); /* fallback color */
+   //background: rgba(0, 0, 0, 0.7);
+   padding-left: 10px;
+   margin-top: 150px;
+}
+
 span a {
   color: white;
 }
