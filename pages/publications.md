@@ -11,7 +11,9 @@ permalink: /publications/
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Tardif%20CL%5BAuthor%5D&cauthor=true&cauthor_uid=28462512" target="_blank"><i class="ai ai-pubmed" aria-hidden="true"></i></a>
 </p>
 
-<p>C. L. Tardif, C. J. Steele, L. Lampe, P. L. Bazin, P. Ragert, A. Villringer and C. J. Gauthier, 2017. Investigation of the confounding effects of vasculature and metabolism on computational anatomy studies. Neuroimage 149, 233-243.<a href="http://dx.doi.org/10.1016/j.neuroimage.2017.01.025" target="_blank"><i class="ai ai-doi" aria-hidden="true"></i></a></p>
+<p>C. L. Tardif, C. J. Steele, L. Lampe, P. L. Bazin, P. Ragert, A. Villringer and C. J. Gauthier, 2017. Investigation of the confounding effects of vasculature and metabolism on computational anatomy studies. Neuroimage 149, 233-243.<br><a href="http://dx.doi.org/10.1016/j.neuroimage.2017.01.025" target="_blank">doi:10.1016/j.neuroimage.2017.01.025</a></p>
+
+<!--<a href="http://dx.doi.org/10.1016/j.neuroimage.2017.01.025" target="_blank"><i class="ai ai-doi" aria-hidden="true"></i></a>-->
 
 <p>M. Boudreau, C. L. Tardif, N. Stikov, J. G. Sled, W. Lee and G. B. Pike, 2017. B1 mapping for bias-correction in quantitative T1 imaging of the brain at 3T using standard pulse sequences. J Magn Reson Imaging.
 <br><a href="http://dx.doi.org/10.1002/jmri.25692" target="_blank">doi:10.1002/jmri.25692</a></p>
