@@ -14,6 +14,7 @@ google-scholar:     "citations?user=6EoHjugAAAAJ&hl=en&oi=ao"
 pages:
 - {title: 'About', url: 'pages/about.html'}
 - {title: 'Join', url: 'pages/join.html'}
+- {title: 'Publications', url: 'pages/publications.html'}
 
 # Build settings
 markdown: kramdown
