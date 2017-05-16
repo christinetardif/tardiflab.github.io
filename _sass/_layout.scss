@@ -110,6 +110,7 @@
     }
 
     .page-link {
+	float: left;//right;
         font-weight: 300;
 	font-size: 16px;
 	color: white; //$text-color;
@@ -139,6 +140,7 @@
             line-height: 0;
             padding-top: 10px;
             text-align: center;
+	    
 
             > svg {
                 width: 18px;
@@ -163,6 +165,7 @@
         .page-link {
             display: block;
             padding: 5px 10px;
+	    color: $grey-color-dark;
 	   
 
             &:not(:last-child) {
