@@ -7,7 +7,7 @@ permalink: /publications/
 
 <p>For a complete list of publications, please see <a href="https://scholar.google.ca/citations?user=6EoHjugAAAAJ&hl=en&oi=ao" target="_blank">google scholar</a> or <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Tardif%20CL%5BAuthor%5D" target="_blank">pubmed</a>.<br></p>
 
-<p>C. L. Tardif, C. J. Steele, L. Lampe, P. L. Bazin, P. Ragert, A. Villringer and C. J. Gauthier, 2017. Investigation of the confounding effects of vasculature and metabolism on computational anatomy studies. Neuroimage 149, 233-243.<br><a href="http://dx.doi.org/10.1016/j.neuroimage.2017.01.025" target="_blank">doi:10.1016/j.neuroimage.2017.01.025</a></p>
+<p>C. L. Tardif, C. J. Steele, L. Lampe, P. L. Bazin, P. Ragert, A. Villringer and C. J. Gauthier, 2017. #Investigation of the confounding effects of vasculature and metabolism on computational anatomy studies.# Neuroimage 149, 233-243.<br><a href="http://dx.doi.org/10.1016/j.neuroimage.2017.01.025" target="_blank">doi:10.1016/j.neuroimage.2017.01.025</a></p>
 
 <!--<a href="http://dx.doi.org/10.1016/j.neuroimage.2017.01.025" target="_blank"><i class="ai ai-doi" aria-hidden="true"></i></a>-->
 
