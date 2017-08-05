@@ -3,9 +3,9 @@
  */
 .site-header {
     //border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 2px solid $grey-color-light;
     min-height: 80px;
-    background-color: #696969;
+    background-color: white;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -15,7 +15,7 @@
 	text-decoration: none;
 	
 	&:hover {
-        color: $text-color;
+        color: #2d358e;
         text-decoration: none;
     }
 }
@@ -47,7 +47,7 @@
 	color: white;
 	
 	&:hover {
-        	color: #d3d3d3;
+        	color: #2d358e;
         	text-decoration: none;
     	}
 }
