@@ -4,7 +4,7 @@
 .site-header {
     //border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 50px;
+    min-height: 80px;
     background-color: #696969;
 
     // Positioning context for the mobile navigation icon
@@ -111,7 +111,7 @@
 
     .page-link {
         font-weight: 300;
-	font-size: 16px;
+	font-size: 15px;
 	color: white; //$text-color;
         line-height: $base-line-height;
 
@@ -170,7 +170,7 @@
             &:not(:last-child) {
                 margin-right: 0;
             }
-            margin-left: 20px;
+            margin-left: 0px; //20px;
         }
     }
 }
