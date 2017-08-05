@@ -3,7 +3,8 @@
  */
 .site-header {
     //border-top: 5px solid $grey-color-dark;
-    border-bottom: 4px $grey-color-light;
+    box-shadow: 0px 5px 5px #888888;
+    //border-bottom: 4px gradient $grey-color-light;
     min-height: 80px;
     background-color: white;
 
