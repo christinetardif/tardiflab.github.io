@@ -103,7 +103,7 @@
 
 .site-nav {
     float: right;
-    line-height: 50px;
+    line-height: 80px;
     
     .menu-icon {
         display: none;
@@ -112,7 +112,7 @@
     .page-link {
         font-weight: 300;
 	font-size: 15px;
-	color: white; //$text-color;
+	color: $text-color;  //white;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -164,12 +164,13 @@
         .page-link {
             display: block;
             padding: 5px 10px;
-	    color: $grey-color-dark;
+	    color: $text-color; //$grey-color-dark;
 	   
 
             &:not(:last-child) {
                 margin-right: 0;
             }
+	    margin-right: 0;
             margin-left: 0px; //20px;
         }
     }
