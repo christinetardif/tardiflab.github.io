@@ -8,6 +8,9 @@
     min-height: 80px;
     background-color: white;
 
+    background-size: cover;
+    background-repeat: no-repeat;
+	
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -109,9 +112,6 @@
     float: right;
     line-height: 80px;
     
-    background-size: cover;
-    background-repeat: no-repeat;
-	
     .menu-icon {
         display: none;
     }
@@ -133,7 +133,7 @@
         position: absolute;
         top: 9px;
         right: $spacing-unit / 2;
-        background-color: $background-color;
+        //background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
