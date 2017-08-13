@@ -194,7 +194,8 @@
 }
 
 .slick-slide img {
-  	width: 100%;
+  	align: center //added
+	width: 80%; //100%;
 }
 
 .slick-prev:before,
